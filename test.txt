@@ -1,5 +1,7 @@
 Expanded user management & admin controls
-Usage reporting made easy
+
 new line
 Live transcription
 Unlimited meetings for groups of 3 or more
+Live transcription
+Usage reporting made easy
