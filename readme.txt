@@ -1,12 +1,14 @@
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
 tially unchanged.
 
+
+ but also the leap into electronic typesetting, remaining
+ 
 when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
 standard dummy text ever since the 1500s,
 
 adsdsadsad
 
- but also the leap into electronic typesetting, remaining
 <<<<<<< HEAD
 
 
