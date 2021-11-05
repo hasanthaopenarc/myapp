@@ -1,12 +1,15 @@
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
 
 when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+standard dummy text ever since the 1500s,
+
 
  but also the leap into electronic typesetting, remaining
 <<<<<<< HEAD
 
-standard dummy text ever since the 1500s, 
 
+
+standard dummy text ever since the 1500s, 
 essentially unchanged.
 =======
 >>>>>>> 094f033d2e6bc47259b30d8a952074b8c8c42df7
